@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waniArifRasool
-- 👀 I’m interested in software developement revolving around javaScript, focused on ReactJs, NodeJS, TypeScript.
+- 👀 I’m interested in software developement revolving around javaScript & its various libraraies and frameworks, html, css, and currently focused on ReactJs, NodeJS, TypeScript.
 - 🌱 I’m currently learning typeScript, nodejs advanced, reactjs projects. 
 - 💞️ I’m looking to collaborate on anything that relates javaScript.
 - 📫 How to reach me: mail@ waniarifrasool@gmail.com
